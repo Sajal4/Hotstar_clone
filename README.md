@@ -1,7 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Deployed with Firebase
+## `Deployed with Firebase`
 https://disney-plus-unofficial.web.app/
+
+# Overview
+
+### Home Page
+
+![image](https://user-images.githubusercontent.com/69163882/151552309-3b6d15d3-ae98-4919-b8af-209edbc6fb5a.png)
+
+### Recommendations
+
+![image](https://user-images.githubusercontent.com/69163882/151552439-4b7a0f65-0624-48d2-928b-bd394bc6df47.png)
+
+
+### Watch Movies
+
+![image](https://user-images.githubusercontent.com/69163882/151552651-6db1ff52-c5cf-40b6-a120-167ac7e79f03.png)
+
 
 ## Available Scripts
 
