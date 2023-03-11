@@ -27,7 +27,7 @@ const Detail=()=> {
 
         return () => {
             setMovie({});
-          };
+            };
 
     }, [id])
 

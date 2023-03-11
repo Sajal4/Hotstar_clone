@@ -63,27 +63,27 @@ function Header() {
                     <NavMenu>
                         <a href='/'>
                             <img src='/images/home-icon.svg' alt='home' />
-                            <span>HOME</span>
+                            <span> HOME</span>
                         </a>
                         <a href='/'>
                             <img src='/images/search-icon.svg' alt='search' />
-                            <span>SEARCH</span>
+                            <span> SEARCH</span>
                         </a>
                         <a href='/'>
                             <img src='/images/watchlist-icon.svg' alt='watchlist' />
-                            <span>WATCHLIST</span>
+                            <span> WATCHLIST</span>
                         </a>
                         <a href='/'>
                             <img src='/images/original-icon.svg' alt='originals' />
-                            <span>ORIGINALS</span>
+                            <span> ORIGINALS</span>
                         </a>
                         <a href='/'>
                             <img src='/images/movie-icon.svg' alt='movies' />
-                            <span>MOVIES</span>
+                            <span> MOVIES</span>
                         </a>
                         <a href='/'>
                             <img src='/images/series-icon.svg' alt='series' />
-                            <span>SERIES</span>
+                            <span> SERIES</span>
                         </a>
                     </NavMenu>
 
