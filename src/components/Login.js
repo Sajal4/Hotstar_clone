@@ -13,7 +13,7 @@ function Login() {
 
                 <Description>
                     Get Premier Access to Raya and the Last Dragon for an additional fee with 
-                    the Disney+ hotstar subscription . As of 01/26/21, the price of Disney+ hotstar and 
+                    the Disney+ hotstar subscription . As of 03/05/23, the price of Disney+ hotstar and 
                     The Disney Bundle will increase by $1 of the subscription pack.
                 </Description>
 

@@ -57,6 +57,7 @@ const Wrap = styled.div`
     cursor: pointer;
 
     img {
+        
         border: 4px solid transparent;
         width: 100%;
         height: 100%;
